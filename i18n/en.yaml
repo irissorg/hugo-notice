@@ -8,3 +8,5 @@
   translation: "Tip"
 - id: reflection
   translation: "Reflection Points"
+- id: summary
+  translation: "Summary"
